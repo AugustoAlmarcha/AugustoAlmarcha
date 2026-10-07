@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augustonicolasalmarchaserafini)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:augustoalmarcha@gmail.com)
-[![Portfolio Live](https://img.shields.io/badge/🚀_CineRewind_en_Vivo-e11d48?style=for-the-badge)](https://cine-rewind.vercel.app/)
+[![Portfolio Live](https://img.shields.io/badge/🚀_CineRewind_en_Vivo-e11d48?style=for-the-badge)](https://cinerewind.com.ar)
 
 ---
 
