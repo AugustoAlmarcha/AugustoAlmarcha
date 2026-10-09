@@ -1,8 +1,8 @@
-# ¡Hola, soy Augusto Almarcha Serafini! 👋
+# ¡Hola, soy Augusto Almarcha Serafini!
 
 <p align="left">
   <strong>Estudiante de Ciencias de la Computación (UNSJ) · Desarrollador Full-Stack (MERN & PERN)</strong><br />
-  📍 San Juan, Argentina
+  San Juan, Argentina
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augustonicolasalmarchaserafini)
