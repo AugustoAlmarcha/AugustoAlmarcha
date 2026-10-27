@@ -12,10 +12,9 @@
 ---
 
 ### 👨‍💻 Sobre Mí
-- 🎓 Cursando el 3.º año de la **Licenciatura en Ciencias de la Computación / Tecnicatura en Programación** en la **Universidad Nacional de San Juan (UNSJ)**.
+- 🎓 Cursando la **Licenciatura en Ciencias de la Computación / Tecnicatura en Programación** en la **Universidad Nacional de San Juan (UNSJ)**.
 - 📜 Certificado en **Desarrollo Full Stack MERN** por el **ITBA** (2025).
 - 💡 Me apasiona resolver problemas reales, el código limpio y construir aplicaciones web modernas con arquitectura escalable.
-- 🌱 Actualmente profundizando en optimización de rendimiento, CI/CD y arquitecturas en la nube.
 
 ---
 
